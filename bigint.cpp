@@ -6,7 +6,6 @@
 
 using namespace std;
 
-// Write your implementation below
 BigInt::BigInt(string s, int abase)
 {
   for(int i = 0; i < s.length(); i++){
